@@ -3,9 +3,7 @@
 <br>
 
 - 🖥️ Currently Learning about **Front End Development**
-
 - 📧 Contact me at **revy.pramana@gmail.com**
-
 - 🤔 You Could ask me about **Problem Solving Or Concepts About Data Structures**
 
 <h3 align="left">Connect with me:</h3>
@@ -23,6 +21,6 @@
   </a>
 </p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=revprm&show_icons=true&theme=transparent&hide_border=true&locale=en&bg_color=000000&title_color=1cbda2&text_color=FFFFFF&icon_color=1cbda2&border_radius=15" alt="revprm" /></p> 
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=revprm&show_icons=true&theme=transparent&hide_border=true&locale=en&bg_color=000000&title_color=47c9c7&text_color=FFFFFF&icon_color=47c9c7&border_radius=15" alt="revprm" /></p> 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=revprm&show_icons=true&theme=transparent&hide_border=true&locale=en&layout=compact&bg_color=000000&title_color=1cbda2&text_color=FFFFFF&icon_color=1cbda2&border_radius=15" alt="revprm"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=revprm&show_icons=true&theme=transparent&hide_border=true&locale=en&layout=compact&bg_color=000000&title_color=47c9c7&text_color=FFFFFF&icon_color=47c9c7&border_radius=15" alt="revprm"/></p>
