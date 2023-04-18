@@ -21,4 +21,4 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=revprm&show_icons=true&hide_border=true&locale=en&bg_color=000000&title_color=1cbda2&text_color=FFFFFF&icon_color=1cbda2" alt="revprm" /></p> 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=revprm&show_icons=true&hide_border=true&locale=en&layout=compact&bg_color=000000&title_color=1cbda2&text_color=FFFFFF&icon_color=1cbda2" alt="revprm" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=revprm&show_icons=true&hide_border=true&locale=en&layout=compact&bg_color=000000&title_color=1cbda2&text_color=FFFFFF&icon_color=1cbda2&border_radius=15" alt="revprm" /></p>
