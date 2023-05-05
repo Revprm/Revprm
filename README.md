@@ -2,7 +2,7 @@
 <h3 align="center">A person who have interests on Cyber Security and Web Development. I'm Currently majoring in Informatics Engineering at ITS Surabaya</h3>
 <br>
 
-- 🖥️ Currently Learning about **Front End Development**
+- 🖥️ Currently Learning about **Cyber Security and Web Development**
 - 📧 Contact me at **revy.pramana@gmail.com**
 - 🤔 You Could ask me about **Problem Solving Or Concepts About Data Structures**
 
