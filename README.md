@@ -4,7 +4,7 @@
 
 - 🖥️ Currently Learning about **Cyber Security and Web Development**
 - 📧 Contact me at **revy.pramana@gmail.com**
-- 🤔 You Could ask me about **Problem Solving or Data Structures and Algorithms**
+- 🤔 You Could ask me about **Problem Solving or Data Structures and Algorithms Concepts**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
