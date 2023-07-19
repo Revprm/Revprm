@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to My Github Profile</h1>
-<h3 align="center">A person who have interests on Cyber Security and Web Development. I'm Currently majoring in Informatics Engineering at ITS Surabaya</h3>
+<h3 align="center">A person who have interests on Cyber Security and Cloud. I'm Currently majoring in Informatics Engineering at ITS Surabaya</h3>
 <br>
 
 - 🖥️ Currently Learning about **Cyber Security and Cloud**
