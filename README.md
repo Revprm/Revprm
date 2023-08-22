@@ -2,7 +2,7 @@
 <h3 align="center">A person who have interests on Cyber Security and Cloud. I'm Currently majoring in Informatics Engineering at ITS Surabaya</h3>
 <br>
 
-- 🖥️ Currently Learning about **Cyber Security and Cloud**
+- 🖥️ Currently Learning about **Cyber Security and Cloud Computing**
 - 📧 Contact me at **revy.pramana@gmail.com**
 - 🤔 You Could ask me about **Problem Solving or Data Structures and Algorithms Concepts**
 
