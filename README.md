@@ -17,7 +17,9 @@
   <a href="https://www.linkedin.com/in/revyprm/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+  <a href="https://stackoverflow.com/users/19656950/revy-pramana?tab=profile">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+  </a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
