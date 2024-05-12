@@ -60,6 +60,8 @@
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker"  />
 </div>
 
 ###
