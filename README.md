@@ -12,7 +12,18 @@
 
 ###
 
-<br>
+<br clear="both">
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/revyprm/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/Kuramon" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
+  </a>
+</div>
+
+###
 
 <br clear="both">
 
@@ -50,6 +61,8 @@
   <img src="https://skillicons.dev/icons?i=mysql" height="37" alt="mysql logo"  />
   <img width="17" />
   <img src="https://skillicons.dev/icons?i=postgres" height="37" alt="postgresql logo"  />
+  <img width="17" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="37" alt="tensorflow logo"  />
 </div>
 
 ###
