@@ -8,7 +8,8 @@
 
 ###
 
-<h3 align="left">My name is Revy<br><br>I'm just an ordinary programmer who likes to learn new things<br><br>📚Currently learning about Data Science.<br><br>💭You can ask me anything as long as I can answer the question based on my current knowledge.</h3>
+<h3 align="left">My name is Revy<br><br>I'm just an ordinary programmer who likes to learn new things<br><br>📚Currently learning about Data Science.<br><br>💭You can ask me anything as long as I can answer the question based on my current knowledge.<br><br>
+💻All my Data Science Projects are on my <a href='https://www.kaggle.com/revypramana'>Kaggle</a></h3>
 
 ###
 
