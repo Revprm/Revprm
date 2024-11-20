@@ -4,7 +4,7 @@
 
 ###
 
-<img align="right" height="250" src="https://media1.tenor.com/m/cospXbGtoPoAAAAC/shizuku-ousaka-love-live.gif"  />
+<img align="right" height="175" src="https://media1.tenor.com/m/cospXbGtoPoAAAAC/shizuku-ousaka-love-live.gif"  />
 
 ###
 
