@@ -4,7 +4,7 @@
 
 ###
 
-<img align="right" height="250" src="https://media1.tenor.com/m/vattaIqQOe8AAAAC/maria-mikhailovna-kujou-roshidere.gif"  />
+<img align="right" height="250" src="https://media1.tenor.com/m/cospXbGtoPoAAAAC/shizuku-ousaka-love-live.gif"  />
 
 ###
 
