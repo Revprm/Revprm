@@ -4,7 +4,7 @@
 
 ###
 
-<img align="right" height="225" src="https://github.com/user-attachments/assets/d075ba5e-0a47-4b65-8300-d3a979339f02" />
+<img align="right" height="225" src="https://media1.tenor.com/m/-NkLCe7E_NAAAAAC/shizuku-osaka.gif" />
 
 ###
 
