@@ -46,4 +46,5 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=revprm&show_icons=true&theme=ayu-mirage&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=revprm&layout=compact&theme=ayu-mirage&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=revprm&locale=en&mode=weekly&theme=ayu-mirage&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
 </div>
