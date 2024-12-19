@@ -25,26 +25,42 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c" height="35" alt="c logo"  />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=cpp" height="35" alt="cplusplus logo"  />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo"  />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=java" height="35" alt="java logo"  />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=php" height="35" alt="php logo"  />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=ts" height="35" alt="typescript logo"  />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=go" height="35" alt="go logo"  />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=bash" height="35" alt="bash logo"  />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo"  />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=postgres" height="35" alt="postgresql logo"  />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo"  />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=linux" height="35" alt="linux logo"  />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=tensorflow" height="35" alt="tensorflow logo"  />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=docker" height="35" alt="docker logo"  />
 </div>
 
 ##
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=revprm&show_icons=true&theme=ayu-mirage&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=revprm&layout=compact&theme=ayu-mirage&hide_border=true" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=revprm&locale=en&mode=weekly&theme=ayu-mirage&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=revprm&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph"  />
+  <img width="10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=revprm&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
+  <img width="10" />
+  <img src="https://streak-stats.demolab.com?user=revprm&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
 </div>
