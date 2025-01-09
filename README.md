@@ -4,8 +4,8 @@
 
 <p align="center">My name is Revy</p>
 <p align="center">I'm just an ordinary programmer who likes to learn new things</p>
-<p align="center">📚 Currently learning about Cyber Security and Artificial Intelligence.</p>
 <p align="center">🔍 Interested in DFIR and Linux Operating Systems.</p>
+<p align="center">📚 Currently learning about Cyber Security and Artificial Intelligence.</p>
 <p align="center">💭 You can ask me anything as long as I can answer the question based on my current knowledge.</p>
 
 ##
