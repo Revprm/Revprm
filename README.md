@@ -25,6 +25,12 @@
   <a href="https://www.twitch.tv/neropet_" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="twitch logo"  />
   </a>
+    <a href="https://www.kaggle.com/revypramana" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff&style=for-the-badge" height="27" alt="kaggle logo" />
+  </a>
+  <a href="https://cyberdefenders.org/p/Revprm" target="_blank">
+    <img src="https://img.shields.io/badge/CyberDefenders-335EEA?logo=cyberdefenders&logoColor=fff&style=for-the-badge" height="27" alt="cyberdefender logo" />
+  </a>
 </div>
 
 ##
