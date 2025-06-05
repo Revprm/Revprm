@@ -10,8 +10,8 @@
 #### Skills & Tools
 
 - **Languages:** C · C++ · Python · Bash . Java . PHP . Go
-- **Frameworks:** Flask · Laravel · TensorFlow
-- **Infra:** Linux · Docker · NGINX
+- **Frameworks:** Flask · Laravel · TensorFlow . Gin
+- **Infra:** Linux · Docker · Nginx
 - **Cybersecurity:** IDA . Wireshark . Wazuh . Burpsuite
 
 #### Addition 
