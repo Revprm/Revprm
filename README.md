@@ -16,8 +16,9 @@
 
 #### Statistics
 <div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=revprm&theme=tokyonight&hide_border=true" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=revprm&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=revprm&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="375" alt="grade graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=revprm&theme=tokyonight&hide_border=true" width="375" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=revprm&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" width="375" alt="languages graph"  />
 </div>
 
 #### Addition 
