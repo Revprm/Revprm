@@ -28,9 +28,9 @@ Here's a breakdown of the languages, tools, and technologies I work with:
 ## 📊 My GitHub Statistics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=revprm&locale=en&mode=daily&theme=ayu-mirage&hide_border=true&border_radius=15&order=3" height="150" alt="streak graph" />
-  <img src="https://my-stats-indol.vercel.app/api?username=revprm&include_all_commits=true&locale=en&theme=ayu-mirage&hide_border=true&border_radius=15&order=3" height="150" alt="stats graph" />
-  <img src="https://my-stats-indol.vercel.app/api/top-langs?username=revprm&locale=en&hide_title=false&card_width=320&layout=compact&langs_count=8&theme=ayu-mirage&hide_border=true&border_radius=15&order=2&hide=c,html,javascript,blade,tex,css&size_weight=0.5&count_weight=0.5" height="150" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=revprm&locale=en&mode=daily&theme=ayu-mirage&hide_border=true&border_radius=15&order=3" alt="streak graph" />
+  <img src="https://my-stats-indol.vercel.app/api?username=revprm&include_all_commits=true&locale=en&theme=ayu-mirage&hide_border=true&border_radius=15&order=3" alt="stats graph" />
+  <img src="https://my-stats-indol.vercel.app/api/top-langs?username=revprm&locale=en&hide_title=false&card_width=320&layout=compact&langs_count=8&theme=ayu-mirage&hide_border=true&border_radius=15&order=2&hide=c,html,javascript,blade,tex,css,typescript&size_weight=0.5&count_weight=0.5" alt="languages graph" />
 </div>
 
 ---
