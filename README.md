@@ -28,7 +28,7 @@ Here's a breakdown of the languages, tools, and technologies I work with:
 ## 📊 My GitHub Statistics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=revprm&locale=en&mode=daily&theme=ayu-mirage&hide_border=true&border_radius=15&order=3" height=175 alt="streak graph" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-five-iota-18.vercel.app?user=revprm&theme=ayu-mirage&hide_border=true&border_radius=15" height=175 alt="GitHub Streak" /></a>
   <img src="https://my-stats-indol.vercel.app/api?username=revprm&include_all_commits=true&locale=en&theme=ayu-mirage&hide_border=true&border_radius=15&order=3" height=175 alt="stats graph" />
   <img src="https://my-stats-indol.vercel.app/api/top-langs?username=revprm&locale=en&hide_title=false&card_width=320&layout=compact&langs_count=8&theme=ayu-mirage&hide_border=true&border_radius=15&order=2&hide=c,html,javascript,blade,tex,css,typescript&size_weight=0.5&count_weight=0.5" height=175 alt="languages graph" />
 </div>
